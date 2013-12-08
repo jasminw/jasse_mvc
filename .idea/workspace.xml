@@ -93,7 +93,7 @@
       <file leaf-file-name="CRequest.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/CRequest/CRequest.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="114" column="35" selection-start="4664" selection-end="4664" vertical-scroll-proportion="0.69540876" vertical-offset="1317" max-vertical-offset="2210">
+            <state line="97" column="7" selection-start="4019" selection-end="4019" vertical-scroll-proportion="0.3717805" vertical-offset="1317" max-vertical-offset="2227">
               <folding />
             </state>
           </provider>
@@ -234,7 +234,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20021646" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20021646" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
@@ -353,7 +353,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/CRequest/CRequest.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="114" column="35" selection-start="4664" selection-end="4664" vertical-scroll-proportion="0.69540876" vertical-offset="1317" max-vertical-offset="2210">
+        <state line="97" column="7" selection-start="4019" selection-end="4019" vertical-scroll-proportion="0.3717805" vertical-offset="1317" max-vertical-offset="2227">
           <folding />
         </state>
       </provider>

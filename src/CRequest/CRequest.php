@@ -93,6 +93,7 @@ class CRequest {
 //        $this->controller     = $controller;
 //        $this->method         = $method;
 //        $this->arguments    = $arguments;
+//
 //    }
     /**
      * Get the url to the current page.
